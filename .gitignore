@@ -1,0 +1,14 @@
+# OS and editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Environment and secret files (never commit these)
+.env
+.env.*
+*.local
+*.key
+*.pem
+secrets.*
